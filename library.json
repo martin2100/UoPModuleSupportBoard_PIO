@@ -1,10 +1,10 @@
 {
-  "name": "PlymouthUniversityModuleSupportBoard",
+  "name": "PlymouthUniversityModuleSupportBoard_PIO",
   "keywords": "mbed, plymouth, university, msb",
-  "description": "Library for The module Support Board",
+  "description": "Mbed Library for The module Support Board for use with PlatformIO",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PlymouthUniversityEEER/PlymouthUniversityModuleSupportBoard"
+    "url": "https://github.com/anorri2/UoPModuleSupportBoard_PIO.git"
   },
   "version": "1.0.1",
   "license": "MIT",
