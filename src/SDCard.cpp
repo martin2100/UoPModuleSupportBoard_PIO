@@ -1,3 +1,4 @@
+#ifdef USE_SD_CARD
 #include "SDCard.h"
 // Function: SDCard class constructor
 // Initialises the SDBlockDevice object
@@ -211,4 +212,4 @@ void SDCard::format(){
     printf("SD Card has been formatted");
 }
 
-
+#endif
