@@ -1,5 +1,5 @@
 #ifdef USE_ORIG_UOP_MSB_LIB
-#include "uop_msb.h"
+#include "uop_msb_orig.h"
 #include "MSB_Config.h"
 using namespace uop_msb;
 
