@@ -22,11 +22,11 @@
 //#define MSB_VER V4C
 //#define MSB_VER V4D
 
-// If you do not wish to use the SD Card, comment this line out
-#define USE_SD_CARD
+// If you wish to use the SD Card, uncomment this line
+// #define USE_SD_CARD
 
-// if you wish to use the ORIGINAL uop-msb libraries un-comment the following
-// #define USE_ORIG_UOP_MSB_LIB
+// if you do not wish to use the ORIGINAL uop-msb libraries comment the following line out
+#define USE_ORIG_UOP_MSB_LIB
 
 // This will automatically add the correct header file 
 // depending on which target board has been selected or detected 
