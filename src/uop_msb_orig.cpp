@@ -1,4 +1,4 @@
-
+#ifdef USE_ORIG_UOP_MSB_LIB
 #include "uop_msb.h"
 #include "MSB_Config.h"
 using namespace uop_msb;
@@ -323,3 +323,4 @@ void UOP_MSB_TEST::test()
 
     }            
 }
+#endif
